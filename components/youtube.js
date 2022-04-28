@@ -93,7 +93,7 @@ extends React.Component {
                             <li><a href="https://ba-ka.org/roblox">roblox</a></li>
                             <li><a href="https://ba-ka.org/github">github</a></li>
                             <li><a href="https://t.ba-ka.org/">tanoshii</a></li>
-                            <li><a href="https://b.ba-ka.org/">bakahu</a></li>
+                            <li><a href="https://hako.work/">hakowork</a></li>
                             <li><a href="https://ba-ka.org/ws">weeaboos squad</a></li>
                         </ul>
                     </div>
